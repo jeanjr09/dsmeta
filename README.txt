@@ -11,3 +11,5 @@ DSMETA
 * Integração com SMS
 
 * Implantação na nuvem com CI/CD
+
+* SITE: https://dsmeta-sales-notify-sms.netlify.app/
